@@ -1,0 +1,3 @@
+# ESPHome
+
+Happy home!
